@@ -114,7 +114,7 @@ function draw(){
     box25.score()
 
     textSize(20)
-    text("Score :" + score, 1200, 30)
+    text("Score : " + score, 1190, 30)
 
 }
 
